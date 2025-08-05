@@ -10,7 +10,7 @@
 - [Recommendations](#recommendations)
 
 ### **DESCRIPTION**
-The project offered an opportunity to design end to end data analytics solutions using Power BI to create a centralized dashboard that could track patient flow, doctor availability and satifaction metrics in real time to make proactive decisions.
+The project offered an opportunity to design end to end data analytics solutions using Power BI to create a centralized dashboard that could track patient flow, doctor availability and satisfaction metrics in real time to make proactive decisions.
 
 <img width="1432" height="807" alt="Screenshot 2025-07-29 181832" src="https://github.com/user-attachments/assets/11009668-500f-4175-bb7d-bd8bda46b0d6" />
 <img width="1425" height="806" alt="Screenshot 2025-07-29 181904" src="https://github.com/user-attachments/assets/0567c150-e586-4f01-9017-acd17549bd13" />
