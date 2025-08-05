@@ -59,19 +59,21 @@ Tools: Power BI Visualization Features.
 
 ### **INSIGHTS AND RECOMMENDATIONS**
 ### Insights
-- July has the highest number of Patients visiting the Hospital basedon 5 years analysis
-- Most piatents visit the hospital on Fridays.
-- Female Patients have the highest number of visits.
-- The hospital had fewer doctors in some specialty like Dentistry which led to increase in wait times for Patients.
-- Wait times for Female Patients were more than wait times for Male Patients.
-- Some doctors were less busy than other doctors.
+- Current Average Wait times was 92 minutes with moderate satisfaction of (3.02).
+- Doctore Availability flunctuated fropping to 18 on Day 22
+- Radiology, Orthopedics and Dermatology has the highest patients visits while Pediatics and Dentistry had the lowest Patient visits
+- 59% of visits are non-admitted, highlighting strong outpatient usuage.
+- Majority of the hospital visits were made by Male Patients.
+- A detailed table of Patients capturinng Patient Name, Satisfaction Score, Treatment type, wait time etc.
 
 ### Recommendations
-- More dentists need to be hired to cover for the number of patients that visit the hospital for dental treatment. This should extend to other specialities with fewer patients. Other specaility doctors should       also be considered to reduce Doctors being over-worked
-- Doctors should be allocated for Female Patients to reduce their wait times.
-- A survey to be carried out amongst patience to determine how to improve the satisfaction rate.
-- Patients with decline in number of visits should be contacted to follow up with them and find out why there is a decrease in visits.
-- Incentives should be implemented for doctors who frequent and attend to more patience to encourage others.
-- More doctors should be made available for months like July with high number of patients visits.
+- Implement a fast track system for kow complexity cases.
+- Explore digital check ins or queue management tools.
+- Redesign appointment scheduling process to reduce bottlenecks during peak hours.
+- Use Patient visit trend to align staffing with demands by department and times taking into consideration peak periods.
+- Marketing and advertisement to create awareness for departments with lesser number of patients and discounts to attract patients.
+- Survey to be carried out amongst customers to find out how services can be improved.
+- Maintan and routinely review the Patient register Dashboards for constant follow up on Customers that stopped visiting.
+- Introduce online consultations or follow ups to reduce physical appearance.
 
 
