@@ -1,4 +1,9 @@
 # STERLING-HEIGHTS-DATA-ANALYSIS : Built an Interactive Dashboard using Power BI that will help the company's management make proactive decisions.
+
+![premium_photo-1682130157004-057c137d96d5](https://github.com/user-attachments/assets/b2efd8d1-caeb-4fdc-bd7d-ede669376ecc)
+
+
+
 ## Table of Content
 
 - [Description](#description)
